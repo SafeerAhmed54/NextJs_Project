@@ -2,10 +2,11 @@ import Link from "next/link";
 import React from "react";
 import Image from "next/image";
 import { auth, signIn, signOut } from "@/auth";
-import { redirect } from "next/dist/server/api-utils";
+
 
 const Navbar = async () => {
   const session = await auth();
+  console.log("Session:", session);
   return (
     <header className="px-5 py-3 bg-white shadow-sm fornt-work-sans">
       <nav className="flex justify-between items-center">
