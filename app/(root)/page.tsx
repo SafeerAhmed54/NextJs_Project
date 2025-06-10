@@ -2,7 +2,7 @@ import React from "react";
 import SearchForm from "../../components/SearchForm";
 import StartupCard, { StartupTypeCard } from "../../components/StartupCard";
 //import { client } from '@/sanity/lib/client'
-import { STARTUP_QUERY } from "@/lib/queries";
+import { STARTUP_QUERY } from "@/sanity/lib/queries";
 import { sanityFetch, SanityLive } from "@/sanity/lib/live";
 
 const page = async ({
