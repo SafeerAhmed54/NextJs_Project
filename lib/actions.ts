@@ -2,7 +2,7 @@
 
 // Update the import path below if your 'auth' module is located elsewhere
 import { auth } from "../auth";
-import { parseServerActionResponse } from "../lib/utils";
+import { parseServerActionResponse } from "./utils";
 import slugify from "slugify";
 import { writeClient } from "../sanity/lib/write-client";
 
