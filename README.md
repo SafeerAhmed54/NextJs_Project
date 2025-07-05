@@ -121,8 +121,7 @@ Visit `http://localhost:3000` to view the app.
 **Safeer Ahmed**
 
 - GitHub: [@SafeerAhmed54](https://github.com/SafeerAhmed54)
-- Email: your-email@example.com
-- Portfolio: your-portfolio-link
+- Email: safeerrana54@gmail.com
 
 ---
 
