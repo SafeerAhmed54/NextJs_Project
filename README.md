@@ -1,5 +1,7 @@
 # 🧩 YC_Directory Startup Publishment
 
+![YC Directory Banner](./public/screenshots/banner.png)
+
 A modern full-stack web project built using **Next.js**, **Tailwind CSS**, and **Sanity CMS**, featuring advanced UI/UX design, responsive layout, and dynamic content management.
 
 ---
@@ -127,4 +129,4 @@ Visit `http://localhost:3000` to view the app.
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](LICENSE)
